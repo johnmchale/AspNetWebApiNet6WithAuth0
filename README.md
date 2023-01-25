@@ -37,7 +37,7 @@
 <img width="1030" alt="image" src="https://user-images.githubusercontent.com/38525955/214669361-625ecd9a-28d2-4e23-b3fa-6d62536bac06.png">
 
 - Now you can test the application with the token (i.e. copy/paste the token above into a GET request on the WeatherForecast controller...)
-- You can try with and without a token (without token = 401 Unauthorized, with token 200 Successful)
+- You can try with and without a token (without token = '401 Unauthorized', with token = '200 Successful')
 
 <img width="1039" alt="image" src="https://user-images.githubusercontent.com/38525955/214670741-5760637f-f2aa-449b-8242-a9e3cd93c860.png">
 
