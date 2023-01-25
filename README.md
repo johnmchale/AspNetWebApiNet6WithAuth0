@@ -26,3 +26,13 @@
   }
 ```
 
+- To try out the authorization, you can use Postman. Firstly, we'll use Postman to obtain a token. You need deatils from auth0 to get the token
+- (i.e. client_id, client_secret, audience and grant_type). These can be obtained in auth0 using: 
+
+<img width="1427" alt="image" src="https://user-images.githubusercontent.com/38525955/214669097-84ae707a-3ddb-4e37-989b-da12db6691ab.png">
+
+- Then feed the values into Postman n.b. the URL will include your tenant ID as shown above
+
+<img width="1030" alt="image" src="https://user-images.githubusercontent.com/38525955/214669361-625ecd9a-28d2-4e23-b3fa-6d62536bac06.png">
+
+
