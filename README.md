@@ -41,5 +41,13 @@
 
 <img width="1039" alt="image" src="https://user-images.githubusercontent.com/38525955/214670741-5760637f-f2aa-449b-8242-a9e3cd93c860.png">
 
+- You can also test out the application using the Swagger page (remember to enter the token by hitting the 'Authorize' button
+- The token must be prefixed with the word 'bearer' and a space 
+
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/38525955/214674869-326f81a9-0311-4dd0-acdf-797a96d52cc7.png">
+
+
+
+
 
 
