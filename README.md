@@ -13,3 +13,16 @@
 
 <img width="474" alt="image" src="https://user-images.githubusercontent.com/38525955/214660273-fa2df5f0-be79-4c30-b091-9c168c00f70e.png">
 
+- Now, you need to enter your tenant ID in the Domain part of the appsettings.json. The tenant ID can be obtained from the home screeen
+- n.b. you need to append .us.auth0.com to the tenant ID (e.g. dev-x999aaaa.us.auth0.com ). The audience will be the identifier you used above
+
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/38525955/214665901-dbbeda11-f40d-4778-8377-9cb5facfd2a2.png">
+
+
+```sh
+"Auth0": {
+    "Domain": "dev-x999aaaa.us.auth0.com",
+    "Audience": "https://localhost:7028/"
+  }
+```
+
