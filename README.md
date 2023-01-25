@@ -3,7 +3,8 @@
 
 ## Repo
 
-- This is the default `ASP.NET Web API .NET6` project using the WeatherForecast controller to return random weather forecasts
+- This is a simple `ASP.NET Web API .NET6` application to test out auth0
+- It is the default `ASP.NET Web API .NET6` project using the WeatherForecast controller to return random weather forecasts
 - However, the WeatherForecast controller is protected using auth0
 - To try out the repo, you will need to sign up to auth0 and create a API application, then enter your tenant ID in the appsettings.json file
 
